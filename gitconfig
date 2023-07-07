@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = giovane.nery@hotmail.com
+	name = Giovane Nery
